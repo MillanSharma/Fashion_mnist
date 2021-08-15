@@ -22,6 +22,11 @@ Each training and test example is assigned to one of the following labels:
 | 9 | Ankle boot |
 
 ## attained accuracy
+|          |Train | Validation  |
+| ---      | -----| ------ |
+| Accuracy | 0.97 | 0.93   |
+| Loss     | 0.12 | 0.16   |
+
 ![](https://github.com/MillanSharma/Fashion_mnist/blob/main/images/train_and_val_acc.png?raw=true)
 
 ![](https://github.com/MillanSharma/Fashion_mnist/blob/main/images/train_and_val_loss.png?raw=true)
