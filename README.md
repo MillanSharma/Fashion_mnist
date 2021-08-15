@@ -24,9 +24,8 @@ Each training and test example is assigned to one of the following labels:
 ## attained accuracy
 ![](https://github.com/MillanSharma/Fashion_mnist/blob/main/images/train_and_val_acc.png?raw=true)
 
-![](images\test_and_val_acc.png)
-![](images\test_and_val_loss.png)
-![](images\confussion_mat.png)
+![](https://github.com/MillanSharma/Fashion_mnist/blob/main/images/train_and_val_loss.png?raw=true)
+![Confussion matrix](https://github.com/MillanSharma/Fashion_mnist/blob/main/images/confussion_mat.png)
 
 
 ### Loading data with Python (requires [NumPy](http://www.numpy.org/))
