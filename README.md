@@ -22,6 +22,8 @@ Each training and test example is assigned to one of the following labels:
 | 9 | Ankle boot |
 
 ## attained accuracy
+![alt text](https://github.com/MillanSharma/Fashion_mnist/edit/main/images/test_and_val_acc.png?raw=true)
+
 ![](images\test_and_val_acc.png)
 ![](images\test_and_val_loss.png)
 ![](images\confussion_mat.png)
